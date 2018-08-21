@@ -5,6 +5,12 @@ public class MainTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Testing push function.");
+		
+	}
+	
+	private void stringWriter(String str)
+	{
+		System.out.println(str);
 	}
 
 }
